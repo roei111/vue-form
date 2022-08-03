@@ -1,4 +1,4 @@
-# gini-task
+# Vue form with validators
 
 ## Project setup
 ```
